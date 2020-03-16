@@ -1,6 +1,6 @@
 # :turtle: Coco Class Git Tutorial
 ### **Get Started**
-- Introduction
+- [Introduction](started/introduction.md)
 - Git Init
 - Git Remote Add
 - Git Add
