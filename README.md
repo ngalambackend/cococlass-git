@@ -1,6 +1,5 @@
 # :turtle: Coco Class Git Tutorial
 ### **Get Started**
-
     - Introduction
     - Git Init
     - Git Remote Add
